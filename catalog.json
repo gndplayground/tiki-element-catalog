@@ -1,60 +1,21 @@
 {
-  "packages": [
-    {
-      "name":"app-elements",
-      "title":"App Elements",
-      "color":"#ddc9e6",
-      "symbol":"App",
-      "tagline": "App elements"
-    },
-    {
-      "name":"iron-elements",
-      "title":"Iron Elements",
-      "color":"#81c784",
-      "symbol": "Fe",
-      "tagline":"Polymer core elements"
-    },
-    {
-      "name":"paper-elements",
-      "title":"Paper Elements",
-      "color":"#ffffff",
-      "symbol": "Md",
-      "tagline":"Material design elements"
-    },
-    {
-      "name":"google-web-components",
-      "title":"Google Web Components",
-      "color":"#64B5F6",
-      "symbol":"Go",
-      "tagline":"Components for Google's APIs and services"
-    },
-    {
-      "name":"gold-elements",
-      "color":"#ffb74d",
-      "title":"Gold Elements",
-      "symbol": "Au",
-      "tagline":"Ecommerce Elements"
-    },
-    {
-      "name":"neon-elements",
-      "title":"Neon Elements",
-      "color":"#a7ffeb",
-      "symbol":"Ne",
-      "tagline": "Animation and Special Effects"
-    },
-    {
-      "name":"platinum-elements",
-      "title":"Platinum Elements",
-      "color":"#cfd8dc",
-      "symbol":"Pt",
-      "tagline":"Offline, push, and more"
-    },
-    {
-      "name":"molecules",
-      "title":"Molecules",
-      "color":"#ffab91",
-      "symbol":"Mo",
-      "tagline": "Wrappers for third-party libraries"
-    }
-  ]
+	"packages": [{
+		"name": "general-elements",
+		"title": "General Elements",
+		"color": "#eeeeee",
+		"symbol": "Ge",
+		"tagline": "General elements"
+	}, {
+		"name": "shopping-elements",
+		"title": "Shopping Elements",
+		"color": "#ddc9e6",
+		"symbol": "Sh",
+		"tagline": "Shopping elements"
+	}, {
+		"name": "marketing-elements",
+		"title": "Marketing Elements",
+		"color": "#EF9A9A",
+		"symbol": "Mkt",
+		"tagline": "Marketing elements"
+	}]
 }
